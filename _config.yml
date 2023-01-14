@@ -20,7 +20,7 @@ resume_contact_email:           "liuzwin98@gmail.com"
 resume_contact_telephone:       "+8618073662996"
 resume_contact_address:         "Shenzhen, China"
 
-resume_header_contact_info:     "Shenzhen, China • +8618073662996 • liuzwin98@gmail.com"
+resume_header_contact_info:     "liuzwin98@gmail.com • +8618073662996 • Shenzhen, China"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, 
@@ -42,8 +42,8 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_links:           false
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
@@ -57,6 +57,7 @@ resume_social_links:
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           ""
   resume_medium_url:            "https://medium.com/"
+
 resume_print_social_links:      false
 
 # Design settings
